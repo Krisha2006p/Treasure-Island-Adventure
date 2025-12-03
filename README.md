@@ -12,7 +12,7 @@ Perfect for beginners learning conditionals and user input in Python.
    ```bash
    git clone https://github.com/Krisha2006p/Treasure-Island-Adventure.git
 
-2. Navigate to the project folder:
+2. Navigate to the repo folder (optional):
    ```bash
    cd Treasure-Island-Adventure
 
